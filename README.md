@@ -1,6 +1,7 @@
 # Python for variable star astronomy
 ## Sign up here to try the software: https://forms.gle/b4qxstUNCuw3ft1A9
 
++ [Talk slides](craig-aavso-fall-2019.pdf)
 + [Guide to CCD data reduction](#Guide-to-CCD-Data-reduction-with-Python)
 + [graphical package for reducing data](#Straightforward-data-reduction-package)
 + [Want to try out the photometry/seeing profile, etc.?](#Photometry-package-for-stellar-photometry)
