@@ -5,6 +5,7 @@
 + [Guide to CCD data reduction](#Guide-to-CCD-Data-reduction-with-Python)
 + [graphical package for reducing data](#Straightforward-data-reduction-package)
 + [Want to try out the photometry/seeing profile, etc.?](#Photometry-package-for-stellar-photometry)
++ [Astropy packages related to stellar photometry](#Astropy-packages-related-to-stellar-photometry)
 
 ## Guide to CCD Data reduction with Python
 ### This is the item most ready for comments
@@ -43,3 +44,11 @@ Currently, the notebooks and underlying software are in two different places (wh
 
 + The Jupyter notebooks are [here](https://github.com/mwcraig/obs-astronomy-binder/tree/master/ORIGINALS-OF-USEFUL-NOTEBOOKS)
 + The underlying software is [here](https://github.com/glowing-waffle/glowing-waffles) (sorry about the package name 🙄)
+
+## Astropy packages related to stellar photometry
+
++ [ccdproc](https://ccdproc.rtfd.io) is the package for performing standard data reduction tasks.
++ [photutils](https://photutils.rtfd.io) performs aperture photometry (not restricted to circular apertures), modeling of image background and PSF photometry.
++ [astroquery](https://astroquery.rtfd.io) can be used to add astrometry via astrometry.net, among other things.
++ [astroscrappy](https://astroscrappy.rtfd.io) removes cosmic rays using the LACosmic method.
++ [astropy](https://astropy.rtfd.io) is used for time and coordinate operations.
