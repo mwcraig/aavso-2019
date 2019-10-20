@@ -3,7 +3,7 @@
 
 + [Guide to CCD data reduction](#Guide-to-CCD-Data-reduction-with-Python)
 + [graphical package for reducing data](#Straightforward-data-reduction-package)
-+ [Want to try out the photometry/seeing profile, etc.?]()
++ [Want to try out the photometry/seeing profile, etc.?](#Photometry-package-for-stellar-photometry)
 
 ## Guide to CCD Data reduction with Python
 ### This is the item most ready for comments
