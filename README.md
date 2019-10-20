@@ -35,6 +35,9 @@ The package [reducer](https://github.com/mwcraig/reducer) presents a graphical i
 
 Please sign up here to get an email in early December for testing the software: https://forms.gle/b4qxstUNCuw3ft1A9
 
+If you want to try out the software in the [poster about TESS and VSX photometry](https://github.com/feder-observatory/aavso2019-poster) please click this button. It will open a browser windows in which you can try out the software: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/feder-observatory/aavso2019-poster/master?filepath=comparison_demo.ipynb)
+
+
 Currently, the notebooks and underlying software are in two different places (which is why we recommend waiting a bit to try it out):
 
 + The Jupyter notebooks are [here](https://github.com/mwcraig/obs-astronomy-binder/tree/master/ORIGINALS-OF-USEFUL-NOTEBOOKS)
